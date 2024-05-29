@@ -1,5 +1,5 @@
 # React + Vite
-
+Simple project for a Color Picker program using ReactJS
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
